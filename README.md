@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raed Alsheikh Amin</h1>
+<h1 align="center">Hello world 👋, I'm Raed Alsheikh Amin</h1>
 <h3 align="center">A passionate programmer who is eager to learn more</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raedalsheikhamin" alt="raedalsheikhamin" /></a> </p>
