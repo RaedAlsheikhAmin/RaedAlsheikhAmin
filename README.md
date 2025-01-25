@@ -55,9 +55,20 @@
 ###
 
 <div align="left">
- <a href="javascript:void(0);" onclick="alert('Add me on Discord: raedamin#2934');">
+ <a href="javascript:void(0);" onclick="copyToClipboard('raedamin#2934'); alert('Discord username copied to clipboard: raedamin#2934');">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
 </a>
+
+<script>
+    function copyToClipboard(text) {
+        navigator.clipboard.writeText(text).then(() => {
+            console.log('Copied to clipboard: ' + text);
+        }).catch(err => {
+            console.error('Failed to copy: ', err);
+        });
+    }
+</script>
+
 
   <a href="mailto:Raed.alshekh.amin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
