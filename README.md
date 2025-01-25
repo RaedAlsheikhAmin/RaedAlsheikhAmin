@@ -50,7 +50,9 @@
 </div>
 
 ###
+<img align="left" height="200" width="200" src="https://media1.tenor.com/m/haNk_BLfeswAAAAd/hello-greeting.gif"  />
 
+###
 
 <div align="left">
  <a href="https://discord.com/users/raedamin#2934" target="_blank">
@@ -70,7 +72,6 @@
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
-  <img align="center" height="220" width="220" src="https://media1.tenor.com/m/haNk_BLfeswAAAAd/hello-greeting.gif"  />
 </div>
 
 ###
