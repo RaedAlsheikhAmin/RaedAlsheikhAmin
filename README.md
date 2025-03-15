@@ -102,11 +102,12 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
+  <p>Profile View</p><img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
 
 <details>
   <summary>📌 More About Me</summary>
   - 🌱 I’m currently learning Game Development Unity <br>
+  - 🚀 Part of Tenkofest <br>
   - 🎯 My goal is to contribute to AI and software development <br>
   - ⚡ Fun Fact: I love strategy games!
 </details>
@@ -114,5 +115,6 @@
 </div>
 
 ###
+
 
 
