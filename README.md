@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Raed Alsheikh Amin 👋</h1>
 
 <p align="center">
-  🎓 Final-year Computer Engineering student at METU | 💻 Passionate about AI, Game Development, and Full-Stack Development  
+  🎓 Senior Computer Engineering student at METU | 💻 Passionate about AI, Game Development, and Full-Stack Development  
 </p>
 
 ---
 
 ### 🚀 **About Me**
-- 🏆 **Software Engineer & Tech Enthusiast**  
+- 🏆 **Computer Engineer & Tech Enthusiast**  
 - 💡 **Building projects in AI, Flutter, and Web Development**  
-- 🎮 **Exploring Game Development using Unity & Unreal Engine**  
+- 🎮 **Exploring Game Development using Unity**  
 - 📚 **Pursuing a Master's in Computer Engineering**  
 - 💬 **Languages:** Arabic, English, Turkish (Learning French & Spanish)
 
