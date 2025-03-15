@@ -1,17 +1,46 @@
-<h3 align="center">Hi 👋! I am Raed Alsheikh Amin, a passionate programmer :)</h3>
-<h4 align="center">Welcome to my profile!</h4>
+<h1 align="center">Hi there, I'm Raed Alsheikh Amin 👋</h1>
+
+<p align="center">
+  🎓 Final-year Computer Engineering student at METU | 💻 Passionate about AI, Game Development, and Full-Stack Development  
+</p>
+
+---
+
+### 🚀 **About Me**
+- 🏆 **Software Engineer & Tech Enthusiast**  
+- 💡 **Building projects in AI, Flutter, and Web Development**  
+- 🎮 **Exploring Game Development using Unity & Unreal Engine**  
+- 📚 **Pursuing a Master's in Computer Engineering**  
+- 💬 **Languages:** Arabic, English, Turkish (Learning French & Spanish)  
+- 🎯 **Currently Working On:** A **Social Media App** using Flutter & Flask 🚀 
+
+---
+
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaedAlsheikhAmin&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaedAlsheikhAmin&layout=compact&langs_count=25&theme=midnight-purple&hide_border=true" height="200" alt="Top Languages" />
+  <a href="https://github.com/RaedAlsheikhAmin">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaedAlsheikhAmin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+  </a>
 
-  <img src="https://github-profile-trophy.vercel.app?username=RaedAlsheikhAmin&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <br>
+
+  <a href="https://github.com/RaedAlsheikhAmin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaedAlsheikhAmin&layout=compact&langs_count=20&theme=midnight-purple&hide_border=false" height="300" width="1500" alt="Top Languages" />
+  </a>
+
+  <br>
+
+  <a href="https://github.com/RaedAlsheikhAmin">
+    <img src="https://github-profile-trophy.vercel.app/?username=RaedAlsheikhAmin&theme=dracula&no-frame=true&no-bg=true&margin-w=15" height="160" alt="GitHub Trophies" />
+  </a>
+
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
