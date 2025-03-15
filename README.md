@@ -102,7 +102,7 @@
 ###
 
 <div align="left">
-  <p>Profile View</p><img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
+ <img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
 
 <details>
   <summary>📌 More About Me</summary>
