@@ -11,13 +11,9 @@
 - 💡 **Building projects in AI, Flutter, and Web Development**  
 - 🎮 **Exploring Game Development using Unity & Unreal Engine**  
 - 📚 **Pursuing a Master's in Computer Engineering**  
-- 💬 **Languages:** Arabic, English, Turkish (Learning French & Spanish)  
-- 🎯 **Currently Working On:** A **Social Media App** using Flutter & Flask 🚀 
+- 💬 **Languages:** Arabic, English, Turkish (Learning French & Spanish)
 
 ---
-
-
-
 ###
 
 <div align="center">
@@ -107,7 +103,16 @@
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/RaedAlsheikhAmin/count.svg?"  />
+
+<details>
+  <summary>📌 More About Me</summary>
+  - 🌱 I’m currently learning Game Development Unity <br>
+  - 🎯 My goal is to contribute to AI and software development <br>
+  - ⚡ Fun Fact: I love strategy games!
+</details>
+
 </div>
 
 ###
+
 
