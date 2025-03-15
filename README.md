@@ -1,8 +1,6 @@
 <h3 align="center">Hi 👋! I am Raed Alsheikh Amin, a passionate programmer :)</h3>
 <h4 align="center">Welcome to my profile!</h4>
 
-
-
 ###
 
 <div align="center">
